@@ -1,0 +1,63 @@
+Patient Medical Report
+Patient Information:
+
+Name: Johnathan Doe
+
+DOB: 1982-04-15
+
+Social Security Number:798-77-0047
+
+Contact Number: (270) 720-7109
+
+Email Address: johndoe@example.com
+
+Medical Record Number: MRN-7894-5671
+
+Medicare Beneficiary Identifier: 1EG4-TE5-MK73
+
+Patient Account Number: BANK-2262-20691
+
+Address: 23 Elm Street, Springfield, IL 62704
+
+
+Medical History:
+
+Known Allergies: Penicillin, Pollen
+Chronic Conditions: Type 2 Diabetes, Hypertension
+
+Past Surgeries:
+Appendectomy: 2010-05-12
+Knee Replacement: 2018-11-20
+
+
+Current Visit Details:
+Visit Date: 2023-12-07
+Chief Complaint: Persistent chest pain and shortness of breath
+Preliminary Diagnosis: Angina
+
+Physician: 
+Dr. Emily Hernandez, MD 
+EMAIL: emilyhernandez@hospitalcare.com
+
+Prescriptions:
+Medication Name: Metformin
+Dosage: 500 mg
+Frequency: Twice a day
+Medication Name: Losartan
+Dosage: 50 mg
+Frequency: Once a day
+
+Laboratory Results:
+Cholesterol Levels:
+LDL: 160 mg/dL
+HDL: 40 mg/dL
+Blood Glucose (Fasting): 150 mg/dL
+
+Insurance Details:
+Policy Number: POLICY-1234-5678
+Insurance Provider Contact: insurance@provider.com
+
+Follow-Up:
+Next Appointment: 2024-01-05
+
+Recommended Tests: Stress test, Echocardiogram
